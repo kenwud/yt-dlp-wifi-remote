@@ -2,6 +2,9 @@
 
 Passes links from your phone to yt-dlp on PC with a simple web interface over wifi
 
+## Screenshot of web interface
+<img width="499" height="730" alt="yt-dlp-remote-ss" src="https://github.com/user-attachments/assets/dbeb5e5e-ff9b-468b-8c93-4c5d9ae47dec" />
+
 ## Features
 
 - 🎯 Simple one-button interface accessible from any device on your network
