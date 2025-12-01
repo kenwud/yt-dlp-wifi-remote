@@ -17,6 +17,18 @@ Passes links from your phone to yt-dlp on PC with a simple web interface over wi
 - **Flask** - Installed via requirements.txt (see below)
 - **ffmpeg** (Optional but recommended) - For merging video/audio formats
 
+
+## Platform Support
+
+Works on Windows, Mac, and Linux.
+
+**Note for Mac/Linux users:** Use forward slashes in paths:
+```python
+DOWNLOAD_FOLDER = "/home/username/downloads"
+YTDLP_PATH = "yt-dlp"  # usually already in PATH
+```
+
+
 ## Installation
 
 1. **Clone or download this repository**
