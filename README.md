@@ -85,6 +85,15 @@ YTDLP_PATH = "yt-dlp"  # usually already in PATH
 - Both devices must be on the same WiFi network
 - Bookmark the page on your phone's home screen for one-tap access
 
+Recommended folder structure:
+yt-dlp-remote/
+├── server.py
+├── requirements.txt
+├── yt-dlp.exe
+├── ffmpeg.exe
+└── downloads/ (create this folder)
+
+
 ## Troubleshooting
 
 **Can't connect from phone?**
